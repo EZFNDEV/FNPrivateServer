@@ -13,6 +13,3 @@ We would be happy if you credit us when using this ❤️
 ✔️ View the Item Shop<br>
 ✔️ Dashboard to edit your account settings<br>
 ▶️ IN PROGRESS: Join others who use this Private Server<br>
-
-#### Credits
-The Launcher that is used is based on the AuroraLauncher made by Cyuubi and Slushia
